@@ -31,14 +31,18 @@ Este repositorio contiene un script `setup.sh` para instalar y configurar Arch L
 1. Instala Arch Linux usando `archinstall`, seleccionando un perfil limpio sin escritorio.
 2. Clona este repositorio:
    ```bash
-   https://github.com/SancRbna/Idk-.Setup.-.git
-   cd Idk-.Setup.-
+    git clone https://github.com/SancRbna/Idk-.Setup.-.git
+    cd Idk-.Setup.-
 3. Dale permisos de ejecución al script y ejecútalo para instalar y configurar las aplicaciones y Hyprland:
+   ```bash
     chmod +x setup.sh
     ./setup.sh
-4. Cuando termine deberias reiniciar tu equipo (Eso Creo)
-5. En la pantalla de inicio de sesión, selecciona el entorno de escritorio Hyprland y entra con tu Usuario/Contraseña.
-6. Nota: Si no tienes Git instalado en tu base Arch, puedes instalarlo primero con:
+5. Cuando termine deberias reiniciar tu equipo (Eso Creo)
+   ```bash
+   exit
+   reboot
+7. En la pantalla de inicio de sesión, selecciona el entorno de escritorio Hyprland y entra con tu Usuario/Contraseña.
+8. Nota: Si no tienes Git instalado en tu base Arch, puedes instalarlo primero con:
    ```bash
    sudo pacman -S git
 ---
