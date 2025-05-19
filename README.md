@@ -46,8 +46,9 @@ Este repositorio contiene un script `setup.sh` para instalar y configurar Arch L
 ## Personalización
   -Puedes modificar el archivo `~/.config/hypr/hyprland.conf` para cambiar la configuración de Hyprland.
   -Añade o quita paquetes dentro de `setup.sh` según tus necesidades.
-
-
-
+---
+Este script descarga e instala componentes con distintas licencias.
+En particular, el tema SDDM "Elegant" se instala desde su repositorio oficial
+y está licenciado bajo GNU GPL v3.0 por surajmandalcell.
 
 I don't Know
