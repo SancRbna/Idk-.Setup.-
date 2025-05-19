@@ -44,7 +44,7 @@ Este repositorio contiene un script `setup.sh` para instalar y configurar Arch L
 7. En la pantalla de inicio de sesión, selecciona el entorno de escritorio Hyprland y entra con tu Usuario/Contraseña.
 8. Nota: Si no tienes Git instalado en tu base Arch, puedes instalarlo primero con:
    ```bash
-   sudo pacman -S git
+   sudo pacman -S git base-devel
 ---
 
 ## Personalización
