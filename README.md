@@ -1,5 +1,7 @@
 # Este seria el modelo para tener todas mis configuraciones, en esta ocasion solo seran aplicaciones xdddd
+-El script está pensado para usarse con Arch Linux y Hyprland.
 
+-Se recomienda revisar el script antes de ejecutarlo para entender qué se instala y configura!!
 
 # Arch Linux Setup con Hyprland
 
