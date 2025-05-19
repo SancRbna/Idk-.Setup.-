@@ -43,7 +43,9 @@ Este repositorio contiene un script `setup.sh` para instalar y configurar Arch L
    sudo pacman -S git
 ---
 
-
+## Personalización
+  -Puedes modificar el archivo `~/.config/hypr/hyprland.conf` para cambiar la configuración de Hyprland.
+  -Añade o quita paquetes dentro de `setup.sh` según tus necesidades.
 
 
 
